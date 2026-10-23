@@ -1,0 +1,25 @@
+body{
+    background-color:beige;
+}
+h1{
+    padding: 15px;
+    background-color: rgb(59, 49, 145);
+    text-align: center; 
+    text-decoration-color: rgb(201, 146, 8);
+    border:10px solid rgb(201, 146, 8);
+    border-radius: 10cap;
+    color: rgb(187, 142, 27);
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+form{
+    text-align: center;
+}
+.p3{
+    text-align: center;
+    padding: 15px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    
